@@ -1,1 +1,2 @@
-Repositorio de prueba 
+# Mi primer repositorio 
+Estoy aprendiendo Git y GitHub.
